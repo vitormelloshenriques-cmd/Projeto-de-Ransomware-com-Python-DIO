@@ -29,4 +29,5 @@ Para fins de testes e validação do laboratório, o script de descriptografia u
 Este projeto foi desenvolvido estritamente para fins educacionais e de pesquisa em laboratório isolado. O uso de técnicas de criptografia maliciosa contra sistemas ou dados sem autorização prévia e explícita constitui crime cibernético.
 
 👨‍💻 Autor
+
 Desenvolvido por Vitor Mello Henriques Barreto.
